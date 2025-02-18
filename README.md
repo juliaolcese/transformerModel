@@ -1,4 +1,4 @@
-# Transformers for Planning
+# Transformer Model
 Este repositorio implementa el código para entrenar un modelo Transformer para la tarea de traducción. Se implementan además dos funciones para usar el modelo entrenado para traducir siguiendo una estrategia greedy y beam search.
 
 ## Archivos
